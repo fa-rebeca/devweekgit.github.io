@@ -7,7 +7,11 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color: #374f50;
+=======
+    background-color: #70c6c7;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
 }
 
 .resume-contents {
@@ -21,13 +25,21 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
+<<<<<<< HEAD
     background-color: #701652;
+=======
+    background-color: #00204A;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< HEAD
     background-color: #854e80;
+=======
+    background-color: #4B6982;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -57,7 +69,11 @@ body {
 }
 
 .profession {
+<<<<<<< HEAD
     color: #9adcec;
+=======
+    color: #FDB44B;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -68,7 +84,11 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
+<<<<<<< HEAD
     color: #9adcec;
+=======
+    color: #FDB44B;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -116,7 +136,11 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
+<<<<<<< HEAD
     color: #9adcec;
+=======
+    color: #F9E79F;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
     letter-spacing: 1px;
     text-transform: uppercase;
 }
@@ -172,7 +196,11 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+<<<<<<< HEAD
     color: #a5b1f5;
+=======
+    color: #FDB44B;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
     padding-bottom: .4rem;
 }
 
@@ -191,7 +219,11 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+<<<<<<< HEAD
     color: #a5b1f5;
+=======
+    color: #FDB44B;
+>>>>>>> dab491e5477bffd90524fc963a9409280b97407f
     padding-bottom: .4rem;
 }
 
